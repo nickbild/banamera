@@ -1,6 +1,6 @@
 # Banamera
 
-Banamera is an AI-powered digital camera that edits your photos instantly using voice commands.
+Banamera is an AI-powered digital camera that edits your photos using voice commands.
 
 ![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/logo_sm.jpg)
 
