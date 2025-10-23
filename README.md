@@ -22,6 +22,24 @@ Everything is controlled by two buttons, as previously mentioned. One simply sna
 
 When the edit button is pressed, the device will first record audio from the microphone, allowing the user to explain how they want the image to be edited. That audio is then forwarded along to a Gemini 2.5 Flash LLM, along with a prompt instructing it to return only a transcript of the audio contained in the attached audio file. The extracted text is then sent to Nano Banana, along with the image captured by the camera. When the result is returned, it is displayed on the Banamera’s screen.
 
+## Media
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/back_off_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/back_close_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/front_close_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/front_unchanged_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/moon_fig_clear_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/moon_screen_clear_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/side_angle_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/generated_image_moon.png)
+
 ## Bill of Materials
 
 - 1 x Raspberry Pi Zero 2 W
