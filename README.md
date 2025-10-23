@@ -1,5 +1,7 @@
 # Banamera
 
+Banamera is an AI-powered digital camera that edits the images it takes to match verbal requests.
+
 AI image editors are incredibly convenient. In a few seconds, you can make edits that might take an hour or more to do manually. Up until recently, these tools could be a bit wonky, to say the least, so the results weren’t always something you could use. But the release of Google's Nano Banana changed that in a big way. It regularly surprises me with how accurate it is in following instructions.
 
 ![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/back_angle_sm.jpg)
