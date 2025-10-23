@@ -38,7 +38,7 @@ When the edit button is pressed, the device will first record audio from the mic
 
 ![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/side_angle_sm.jpg)
 
-![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/generated_image_moon.png)
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/generated_image.moon.png)
 
 ## Bill of Materials
 
