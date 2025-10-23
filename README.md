@@ -2,9 +2,13 @@
 
 AI image editors are incredibly convenient. In a few seconds, you can make edits that might take an hour or more to do manually. Up until recently, these tools could be a bit wonky, to say the least, so the results weren’t always something you could use. But the release of Google's Nano Banana changed that in a big way. It regularly surprises me with how accurate it is in following instructions.
 
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/back_angle_sm.jpg)
+
 But the user experience through the web interface is less than ideal. Upload an image. Type out a request. Wait. Download the result. Repeat for each image. So that’s why I created what I call the Banamera.
 
 It’s a digital camera that takes pictures just like any other camera when you press a button. But when you press the *other* button — that’s when the magic happens. A microphone on the side records your voice, and the request that you make is forwarded to the Nano Banana API behind the scenes. Within a matter of seconds, the image on the screen updates, showing the result produced by the model.
+
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/front_angle_sm.jpg)
 
 ## How It Works
 
