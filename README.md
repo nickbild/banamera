@@ -8,6 +8,8 @@ It’s a digital camera that takes pictures just like any other camera when you 
 
 ## How It Works
 
+![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/prototype_sm.jpg)
+
 The Banamera is built around a Raspberry Pi Zero 2 W single-board computer. I have a Camera Module 2 connected to the computer to capture images, and a 2.2-inch LCD display to show the captured images. There is also an I2S MEMS microphone to record the user’s voice.
 
 Everything is controlled by two buttons, as previously mentioned. One simply snaps a picture, and the other edits it based on a verbal request.
