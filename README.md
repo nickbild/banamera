@@ -8,6 +8,8 @@ AI image editors are incredibly useful. In a few seconds, you can make edits tha
 
 But the user experience through the web interface is less than ideal. Upload an image. Type out a request. Wait. Download the result. Repeat for each image. So that’s why I created what I call the Banamera.
 
+<a href="https://www.youtube.com/watch?v=48u5fLn-YIQ">![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/video_preview.png)</a>
+
 It’s a digital camera that takes pictures just like any other camera when you press a button. But when you press the *other* button — that’s when the magic happens. A microphone on the side records your voice, and the request that you make is forwarded to the Nano Banana API behind the scenes. Within a matter of seconds, the image on the screen updates, showing the result produced by the model.
 
 ![](https://raw.githubusercontent.com/nickbild/banamera/refs/heads/main/media/front_angle_sm.jpg)
